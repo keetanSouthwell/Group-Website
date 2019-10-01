@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html>
 
@@ -9,8 +9,9 @@
 
   <h1> Links to each individual website </h1>
   
-  <a href="https://vincentsingzon.github.io/myprofile/">Link to Vincent Website</a>
-
+  <a href="https://vincentsingzon.github.io/myprofile/">Link to Vincent Singzon Profile</a>
+  
+  <a href="https://kgm95.github.io/My-Profile/">Link to Kyle Molloy Profile</a>
 
   </body>
 
