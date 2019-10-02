@@ -23,6 +23,10 @@
 
 <a href="https://keetansouthwell.github.io/ITP-Assignment-1/">Link to Keetan Southwell Profile</a>
 
+<hr>
+
+<a href="https://github.com/WillDaWise/Assignment1/wiki">Link to Will Profile</a>
+
 
 
   </body>
