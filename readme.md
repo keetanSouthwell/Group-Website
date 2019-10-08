@@ -27,6 +27,11 @@
 
 <a href="https://github.com/WillDaWise/Assignment1/wiki">Link to Will Profile</a>
 
+<h1> Personal Profiles </h1>
+
+<h3> Vincent Singzon </h3>
+
+
 
 
   </body>
