@@ -25,9 +25,16 @@
 
 <hr>
 
-<a href="https://github.com/WillDaWise/Assignment1/wiki">Link to Will Profile</a>
+<a href="https://github.com/WillDaWise/Assignment1/wiki">Link to Will Grime Profile</a>
 
-<h1> <h1>
+<h1> Personal Information </h1>
+<h1> Team Profile </h1>
+<h1> Ideal Jobs </h1>
+<h1> Tools </h1>
+<h1> Industry Data </h1>
+<h1> IT Tecnologies </h1>
+<h1> Project Ideas </h1>
+<h1> Feedback </h1>
 
   </body>
 
