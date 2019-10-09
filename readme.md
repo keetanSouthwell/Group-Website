@@ -29,8 +29,10 @@
 
 <h1> Personal Information </h1>
 <h1> Team Profile </h1>
-<br>
 <h3> Keetan Southwell </h3>
+<img src = "KeetanImages/MyersBriggs.png" alt="hi"/>
+<img src = "KeetanImages/Big5.png" alt="hi"/>
+<img src = "KeetanImages/LearningStyles.png" alt="hi"/>
 
 <h1> Ideal Jobs </h1>
 <h1> Tools </h1>
