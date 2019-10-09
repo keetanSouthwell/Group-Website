@@ -34,6 +34,14 @@
 <img src = "KeetanImages/MyersBriggs.png" alt="hi"/>
 <img src = "KeetanImages/Big5.png" alt="hi"/>
 <img src = "KeetanImages/LearningStyle.png" alt="hi"/>
+<br>
+<h3> Will Grime </h3>
+<br>
+<h3>Vincent Singzon</h3>
+<br>
+<h3>Kyle Molloy</h3>
+<br>
+<Aaron Wilkinson </h3>
 
 <h1> Ideal Jobs </h1>
 <h1> Tools </h1>
