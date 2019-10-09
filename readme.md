@@ -32,7 +32,7 @@
 <h3> Keetan Southwell </h3>
 <img src = "KeetanImages/MyersBriggs.png" alt="hi"/>
 <img src = "KeetanImages/Big5.png" alt="hi"/>
-<img src = "KeetanImages/LearningStyles.png" alt="hi"/>
+<img src = "KeetanImages/LearningStyle.png" alt="hi"/>
 
 <h1> Ideal Jobs </h1>
 <h1> Tools </h1>
