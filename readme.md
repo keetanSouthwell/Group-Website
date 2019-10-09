@@ -41,7 +41,7 @@
 <br>
 <h3>Kyle Molloy</h3>
 <br>
-<Aaron Wilkinson </h3>
+<h3>Aaron Wilkinson </h3>
 
 <h1> Ideal Jobs </h1>
 <h1> Tools </h1>
